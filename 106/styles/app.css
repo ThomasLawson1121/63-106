@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    height: calc(100vh  );
+}
+#getMethod {
+    flex: 1;
+    background-color: aquamarine;
+}
+#postMethod {
+    flex: 1;
+    background-color: coral;
+}
